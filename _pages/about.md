@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [NCUT](https://www.ncut.edu.cn/). My research interest includes service computing, data mining, and machine learning.
+I'm a first year undergraduate student from [NCUT](https://www.ncut.edu.cn/). My research interest includes service computing, data mining, and machine learning.
 
 
 [Email](max_zhengxin@foxmail.com) / [Github](https://github.com/xinzheng99)
