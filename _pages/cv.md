@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in North China University of technology, Beijing China, 2018
 * M.S. in North China University of technology, Beijing China, 2022
-# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
 
 Work experience
 ======
